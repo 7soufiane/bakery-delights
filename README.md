@@ -26,5 +26,5 @@ A delightful mobile application for showcasing bakery and sweet products, built 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bakery-delights.git
+   git clone https://github.com/7soufiane/bakery-delights.git
    cd bakery-delights
